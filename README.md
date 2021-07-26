@@ -50,6 +50,7 @@ refer to one of the fields from the list below:
 * Content status
 * Language
 * Document version
+* Presentation start time
 
 For example, to include the author's name on a slide, create a text
 box with a value of `Author: {{Author}}`.
